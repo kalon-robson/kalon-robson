@@ -1,5 +1,5 @@
 Currently, I am utilizing the following tools:<br /><br />
-[![SkillIcons](https://skillicons.dev/icons?i=bash,ts,postgres,graphql,react,vue,nextjs,github,azure,cloudflare,sentry)](https://skillicons.dev)<br/><br />
+[![SkillIcons](https://skillicons.dev/icons?i=bash,ts,postgres,graphql,react,vue,nextjs,threejs,github,azure,cloudflare,sentry)](https://skillicons.dev)<br/><br />
 Connect with me:<br />
 [![emailIcon](https://img.icons8.com/color/52/000000/email.png)](mailto:kalon.robson@innovixx.co.uk)
 [![LinkedInIcon](https://img.icons8.com/color/52/000000/linkedin.png)](https://uk.linkedin.com/in/kalon-robson-70b220173)
