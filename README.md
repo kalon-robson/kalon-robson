@@ -5,6 +5,6 @@ Connect with me:<br />
 [![LinkedInIcon](https://img.icons8.com/color/52/000000/linkedin.png)](https://uk.linkedin.com/in/kalon-robson-70b220173)
 [![DiscordIcon](https://img.icons8.com/color/52/000000/discord--v1.png)](https://discordapp.com/users/618601682460344334)<br />
 
-In addition to my personal projects, I am also a software developer at Innovixx, a UK-based company that specializes in custom software development. At Innovixx, I work on a variety of projects ranging from web and mobile applications to enterprise-level software solutions.
+In addition to my personal projects, I am also Technical Director at Innovixx, a UK-based company that specializes in bespoke software development. At Innovixx, I work on a variety of projects ranging from web and mobile applications to enterprise-level software solutions.
 
-If you're interested in learning more about Innovixx or would like to see some of our work, please visit our website at https://innovixx.co.uk/ or check out our GitHub organization at https://github.com/Innovixx-Development.
+If you're interested in learning more about Innovixx or would like to see some of our work, please visit our website at https://innovixx.co.uk/ or check out our GitHub organization at https://github.com/innovixx.
